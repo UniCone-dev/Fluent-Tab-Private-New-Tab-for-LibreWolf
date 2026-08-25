@@ -1,6 +1,11 @@
 # Fluent-Tab-Private-New-Tab-for-LibreWolf
 Windows 11 Start-Menu-style new tab page. 100% local, open-source, no tracking, no analytics, no accounts. Everything is saved directly inside your browser's local storage.
 
+# Preview
+<img width="1920" height="896" alt="Screenshot_20260825_054853" src="https://github.com/user-attachments/assets/9e6341c0-d72d-405c-b2e5-e598d894d0bc" />
+<img width="1920" height="899" alt="Screenshot_20260825_055121" src="https://github.com/user-attachments/assets/1211041c-7245-4995-bc6b-fe885e3f403b" />
+<img width="1920" height="902" alt="Screenshot_20260825_055239" src="https://github.com/user-attachments/assets/b144dd79-86f6-4b8c-9344-25abf1e926b9" />
+
 # Key Features
 
     OS-style taskbar (bottom of screen, always visible): The Start button and pinned apps are now always aligned to the center of the taskbar (just like Windows 11) — pin any AI/folder app using the "+" button or create a new custom app. The right tray displays a weather icon next to the temperature and clock, alongside a language switcher.
